@@ -1,0 +1,15 @@
+{
+  "name": "ltx",
+  "displayName": "LTX",
+  "version": "1.0.0",
+  "description": "Generate and edit video and audio with LTX models from Cursor.",
+  "author": {
+    "name": "Lightricks"
+  },
+  "homepage": "https://ltx.io",
+  "repository": "https://github.com/Lightricks/ltx-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["ltx", "video", "video-generation", "audio", "ai", "mcp"],
+  "logo": "assets/logo.png",
+  "mcpServers": "./mcp.json"
+}
